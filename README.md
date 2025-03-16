@@ -1,3 +1,4 @@
 # vscode_cpp
-this demo fro learning. \n
-learning ot make first commit
+this demo for learning. 
+<br>
+learning to make first commit
